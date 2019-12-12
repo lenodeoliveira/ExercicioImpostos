@@ -1,0 +1,11 @@
+/home/lennon/Aula_C#/Payer/bin/Debug/netcoreapp2.2/Payer.deps.json
+/home/lennon/Aula_C#/Payer/bin/Debug/netcoreapp2.2/Payer.runtimeconfig.json
+/home/lennon/Aula_C#/Payer/bin/Debug/netcoreapp2.2/Payer.runtimeconfig.dev.json
+/home/lennon/Aula_C#/Payer/bin/Debug/netcoreapp2.2/Payer.dll
+/home/lennon/Aula_C#/Payer/bin/Debug/netcoreapp2.2/Payer.pdb
+/home/lennon/Aula_C#/Payer/obj/Debug/netcoreapp2.2/Payer.csprojAssemblyReference.cache
+/home/lennon/Aula_C#/Payer/obj/Debug/netcoreapp2.2/Payer.csproj.CoreCompileInputs.cache
+/home/lennon/Aula_C#/Payer/obj/Debug/netcoreapp2.2/Payer.AssemblyInfoInputs.cache
+/home/lennon/Aula_C#/Payer/obj/Debug/netcoreapp2.2/Payer.AssemblyInfo.cs
+/home/lennon/Aula_C#/Payer/obj/Debug/netcoreapp2.2/Payer.dll
+/home/lennon/Aula_C#/Payer/obj/Debug/netcoreapp2.2/Payer.pdb
